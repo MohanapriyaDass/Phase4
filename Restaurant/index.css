@@ -1,0 +1,57 @@
+#toptheme{
+    padding:10px 30px;
+    font-style: normal;
+    font-size:40px;
+    text-decoration: none;
+    font-family:fantasy;
+}
+body{
+    background-color: rgb(160, 143, 95);
+    margin-bottom: 50px;
+    text-indent: 30px;
+}
+
+p,#change{
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    font-size: large;
+}
+#foot{
+    color:rgb(74, 139, 0);
+    font-size: normal;
+    font-style: normal;
+    margin-top: auto;
+    height:70px;
+    background:linear-gradient(#f690b2,#D5D533);
+    
+}
+#contactme{
+    
+    background-image: url(rest.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color:black;
+    font-size:xx-large;
+    font-weight: bolder;
+}
+#form1{
+    margin:auto;
+}
+#menu1{
+    background-image: url(fast1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#cls1{
+    background-color: rgb(255, 217, 0);
+}
+#cls2{
+    background-color: #f690b2;
+}
+#cls3{
+    background-color: #33d5a4;
+}
+#cls5{
+    background-color: rgb(50, 53, 204);
+}
